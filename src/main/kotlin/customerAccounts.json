@@ -1,0 +1,26 @@
+{
+  "6DRPoU0aJh+sn0Pefo6Y9he1TgfoeomPnISjoV5sXA4\u003d": {
+    "status": "customer",
+    "orders": [],
+    "amountToPay": 0,
+    "encryptedEmail": "6DRPoU0aJh+sn0Pefo6Y9he1TgfoeomPnISjoV5sXA4\u003d",
+    "encryptedPassword": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ\u003d",
+    "name": "Mark"
+  },
+  "ypeBEsobvcr6wjGzmiPcTaeG7/gUfE5yuYB3ha/uSLs\u003d": {
+    "status": "customer",
+    "orders": [],
+    "amountToPay": 0,
+    "encryptedEmail": "ypeBEsobvcr6wjGzmiPcTaeG7/gUfE5yuYB3ha/uSLs\u003d",
+    "encryptedPassword": "ypeBEsobvcr6wjGzmiPcTaeG7/gUfE5yuYB3ha/uSLs\u003d",
+    "name": "a"
+  },
+  "dUMJpB4N+Yri0KjCmSHoRp7jk2S2fCezF/f1bpXbyGE\u003d": {
+    "status": "customer",
+    "orders": [],
+    "amountToPay": 0,
+    "encryptedEmail": "dUMJpB4N+Yri0KjCmSHoRp7jk2S2fCezF/f1bpXbyGE\u003d",
+    "encryptedPassword": "ypeBEsobvcr6wjGzmiPcTaeG7/gUfE5yuYB3ha/uSLs\u003d",
+    "name": "Mark Feldman"
+  }
+}
